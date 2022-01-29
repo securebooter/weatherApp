@@ -6,7 +6,7 @@ import time
 window = Tk()
 window.title('Weather Information')
 window.geometry('600x100')
-window.iconbitmap(r'C:\Users\example\OneDrive\Desktop\cloudicon.ico')
+window.iconbitmap(r'C:\cloudicon.ico')
 
 
 def get_weather_info():
